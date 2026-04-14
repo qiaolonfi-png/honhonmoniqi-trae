@@ -40,7 +40,7 @@ export default function Home() {
           </div>
 
           {/* Main Title */}
-          <h1 className="text-5xl md:text-6xl font-bold mb-4" style={{ color: '#FF69B4' }}>
+          <h1 className="text-5xl md:text-6xl font-bold mb-4" style={{ color: '#8B5CF6' }}>
             哄哄模拟器
           </h1>
 
